@@ -1,3 +1,0 @@
-def ket_0
-    return np.array([1,0])
-  
