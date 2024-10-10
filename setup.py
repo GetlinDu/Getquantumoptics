@@ -7,7 +7,7 @@ setup(
     install_requires=["numpy==2.0.2"],  # 在此列出依赖
     author="GetlinDu",
     author_email="1578440935@qq.com",
-    description="A brief description of the library",
+    description="A brief quantum simulator of the quantum optics",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     url="https://github.com/GetlinDu/Getquantumoptics",
